@@ -1,0 +1,5 @@
+Warrior
+Princess
+Wizard
+Witch
+Hero
